@@ -1,0 +1,15 @@
+public class Main
+{
+	public static void main(String[] args) {
+	int w = 160 ; 
+	int y = 159;
+	if (w>159){
+	    System.out.println("you can enter the game");
+	}else  if
+	(w<161){System.out.println("you can not enter the game");}
+	
+
+
+
+	}
+}
